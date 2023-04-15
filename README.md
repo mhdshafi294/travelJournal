@@ -1,4 +1,6 @@
-# co8e64909b000e9ecf81638c0
+# Rravel Journal
+
+This is a  final solo project I had gladly to do in a Scrimba React.js course.
 
 Quick start:
 
