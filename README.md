@@ -1,6 +1,6 @@
 # Rravel Journal
 
-This is a  final solo project I had gladly to do in a Scrimba React.js course.
+This is a  final solo project I had gladly to do in the Scrimba React.js course.
 
 Quick start:
 
