@@ -1,4 +1,4 @@
-# Rravel Journal
+# Travel Journal
 
 This is a  final solo project I had gladly to do in the Scrimba React.js course.
 
